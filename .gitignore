@@ -112,3 +112,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Datasets
+/combo_datasets/*
+/real_datasets/*
+/synthetic_datasets/*
+
+
+
+#Models
+/ready_models/*
+mask_rcnn_coco.h5
+mask_rcnn_coco_pretrained_model_config_0005.h5
